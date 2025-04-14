@@ -1,0 +1,9 @@
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@us.bugs2000.dpdns.org:8443?encryption=none&security=tls&type=ws&host=us.bugs2000.dpdns.org&sni=us.bugs2000.dpdns.org&fp=random&path=%2F%3Fed%3D2560#us.bugs2000.dpdns.org
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@jp.bugs2000.dpdns.org:8443?encryption=none&security=tls&type=ws&host=jp.bugs2000.dpdns.org&sni=jp.bugs2000.dpdns.org&fp=random&path=%2F%3Fed%3D2048#jp.bugs2000.dpdns.org
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@cn.bugs2000.dpdns.org:8443?encryption=none&security=tls&type=ws&host=cn.bugs2000.dpdns.org&sni=cn.bugs2000.dpdns.org&fp=random&path=%2F%3Fed%3D2048#cn.bugs2000.dpdns.org
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@tw.bugs2000.dpdns.org:8443?encryption=none&security=tls&type=ws&host=tw.bugs2000.dpdns.org&sni=tw.bugs2000.dpdns.org&fp=random&path=%2F%3Fed%3D2048#tw.bugs2000.dpdns.org
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@th.bugs2000.dpdns.org:8443?encryption=none&security=tls&type=ws&host=th.bugs2000.dpdns.org&sni=th.bugs2000.dpdns.org&fp=random&path=%2F%3Fed%3D2048#th.bugs2000.dpdns.org
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@jp2.bugs2000.dpdns.org:8443?encryption=none&security=tls&type=ws&host=jp2.bugs2000.dpdns.org&sni=jp2.bugs2000.dpdns.org&fp=random&path=%2F%3Fed%3D2048#jp2.bugs2000.dpdns.org
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@hk.bugs2000.dpdns.org:8443?encryption=none&security=tls&type=ws&host=hk.bugs2000.dpdns.org&sni=hk.bugs2000.dpdns.org&fp=random&path=%2F%3Fed%3D2048#hk.bugs2000.dpdns.org
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@www.4chan.org:8880?encryption=none&security=none&type=ws&host=bproxy.bugs2000.workers.dev&path=%2F%3Fed%3D2048#bproxy.bugs2000.workers.dev
+vless://a7b85602-50f5-4d6d-bd0d-c989bffdfbef@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=vlesstls.pages.dev&sni=vlesstls.pages.dev&fp=random&path=%2F%3Fed%3D2048#vlesstls.pages.dev
